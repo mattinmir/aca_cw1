@@ -1,0 +1,8 @@
+#!/bin/bash
+
+SCALE=3
+
+FILENAME=bucky-32x32x$SCALE.raw
+echo $FILENAME
+
+/homes/phjk/simplesim-wattch/sim-outorder $SSFLAGS ./tltree 32 32 $SCALE $FILENAME
