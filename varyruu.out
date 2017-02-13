@@ -1,0 +1,961 @@
+Config order: -ruu:size -fetch:ifqsize -bpred
+
+nottaken 2 1 	IPC	0.4331
+nottaken 2 1 	Energy	882677580.5053
+
+
+nottaken 2 2 	IPC	0.4358
+nottaken 2 2 	Energy	765095152.2431
+
+
+nottaken 2 4 	IPC	0.4363
+nottaken 2 4 	Energy	765112155.5583
+
+
+nottaken 2 8 	IPC	0.4363
+nottaken 2 8 	Energy	781511801.4249
+
+
+nottaken 2 16 	IPC	0.4362
+nottaken 2 16 	Energy	802473173.0596
+
+
+nottaken 4 1 	IPC	0.5617
+nottaken 4 1 	Energy	887470681.3546
+
+
+nottaken 4 2 	IPC	0.6163
+nottaken 4 2 	Energy	707154402.5751
+
+
+nottaken 4 4 	IPC	0.6183
+nottaken 4 4 	Energy	660343353.9408
+
+
+nottaken 4 8 	IPC	0.6182
+nottaken 4 8 	Energy	676159400.1529
+
+
+nottaken 4 16 	IPC	0.6183
+nottaken 4 16 	Energy	690274192.4718
+
+
+nottaken 8 1 	IPC	0.5896
+nottaken 8 1 	Energy	909905546.9390
+
+
+nottaken 8 2 	IPC	0.7222
+nottaken 8 2 	Energy	680417144.3789
+
+
+nottaken 8 4 	IPC	0.7451
+nottaken 8 4 	Energy	617862686.2408
+
+
+nottaken 8 8 	IPC	0.7453
+nottaken 8 8 	Energy	626274246.3377
+
+
+nottaken 8 16 	IPC	0.7454
+nottaken 8 16 	Energy	635725249.7911
+
+
+nottaken 16 1 	IPC	0.6274
+nottaken 16 1 	Energy	959090431.8355
+
+
+nottaken 16 2 	IPC	0.8004
+nottaken 16 2 	Energy	722499565.4598
+
+
+nottaken 16 4 	IPC	0.8617
+nottaken 16 4 	Energy	634477944.8350
+
+
+nottaken 16 8 	IPC	0.8619
+nottaken 16 8 	Energy	637650240.2244
+
+
+nottaken 16 16 	IPC	0.8620
+nottaken 16 16 	Energy	643557972.4066
+
+
+nottaken 32 1 	IPC	0.6279
+nottaken 32 1 	Energy	1067591609.6402
+
+
+nottaken 32 2 	IPC	0.8010
+nottaken 32 2 	Energy	825066770.3928
+
+
+nottaken 32 4 	IPC	0.8683
+nottaken 32 4 	Energy	724089547.6484
+
+
+nottaken 32 8 	IPC	0.8685
+nottaken 32 8 	Energy	726327523.2202
+
+
+nottaken 32 16 	IPC	0.8686
+nottaken 32 16 	Energy	732014988.3887
+
+
+nottaken 64 1 	IPC	0.6279
+nottaken 64 1 	Energy	1196692591.5640
+
+
+nottaken 64 2 	IPC	0.8010
+nottaken 64 2 	Energy	928685822.6032
+
+
+nottaken 64 4 	IPC	0.8683
+nottaken 64 4 	Energy	818784540.8495
+
+
+nottaken 64 8 	IPC	0.8685
+nottaken 64 8 	Energy	824084699.2001
+
+
+nottaken 64 16 	IPC	0.8686
+nottaken 64 16 	Energy	829690376.1272
+
+
+nottaken 128 1 	IPC	0.6279
+nottaken 128 1 	Energy	1407196306.2575
+
+
+nottaken 128 2 	IPC	0.8010
+nottaken 128 2 	Energy	1096614197.4427
+
+
+nottaken 128 4 	IPC	0.8683
+nottaken 128 4 	Energy	971073874.0256
+
+
+nottaken 128 8 	IPC	0.8685
+nottaken 128 8 	Energy	976354780.3065
+
+
+nottaken 128 16 	IPC	0.8686
+nottaken 128 16 	Energy	981786544.4951
+
+
+nottaken 256 1 	IPC	0.6279
+nottaken 256 1 	Energy	1815039770.0202
+
+
+nottaken 256 2 	IPC	0.8010
+nottaken 256 2 	Energy	1422193583.4219
+
+
+nottaken 256 4 	IPC	0.8683
+nottaken 256 4 	Energy	1266015678.4225
+
+
+nottaken 256 8 	IPC	0.8685
+nottaken 256 8 	Energy	1271317978.5384
+
+
+nottaken 256 16 	IPC	0.8686
+nottaken 256 16 	Energy	1276482325.8147
+
+
+taken 2 1 	IPC	0.4331
+taken 2 1 	Energy	882677478.2133
+
+
+taken 2 2 	IPC	0.4358
+taken 2 2 	Energy	758713497.5354
+
+
+taken 2 4 	IPC	0.4364
+taken 2 4 	Energy	759038475.9173
+
+
+taken 2 8 	IPC	0.4363
+taken 2 8 	Energy	773929753.2661
+
+
+taken 2 16 	IPC	0.4362
+taken 2 16 	Energy	793945975.3505
+
+
+taken 4 1 	IPC	0.5617
+taken 4 1 	Energy	887470434.3423
+
+
+taken 4 2 	IPC	0.6174
+taken 4 2 	Energy	702438366.4649
+
+
+taken 4 4 	IPC	0.6206
+taken 4 4 	Energy	635695945.1761
+
+
+taken 4 8 	IPC	0.6206
+taken 4 8 	Energy	650353633.0218
+
+
+taken 4 16 	IPC	0.6204
+taken 4 16 	Energy	670707726.1600
+
+
+taken 8 1 	IPC	0.5896
+taken 8 1 	Energy	909905474.6620
+
+
+taken 8 2 	IPC	0.7273
+taken 8 2 	Energy	677338402.5032
+
+
+taken 8 4 	IPC	0.7522
+taken 8 4 	Energy	589268469.3890
+
+
+taken 8 8 	IPC	0.7521
+taken 8 8 	Energy	602096347.4379
+
+
+taken 8 16 	IPC	0.7519
+taken 8 16 	Energy	613314865.1767
+
+
+taken 16 1 	IPC	0.6274
+taken 16 1 	Energy	959090590.6223
+
+
+taken 16 2 	IPC	0.8080
+taken 16 2 	Energy	718333481.8556
+
+
+taken 16 4 	IPC	0.8736
+taken 16 4 	Energy	617197924.0403
+
+
+taken 16 8 	IPC	0.8738
+taken 16 8 	Energy	621657736.3108
+
+
+taken 16 16 	IPC	0.8739
+taken 16 16 	Energy	627305838.5448
+
+
+taken 32 1 	IPC	0.6279
+taken 32 1 	Energy	1067591788.0286
+
+
+taken 32 2 	IPC	0.8086
+taken 32 2 	Energy	820508970.5725
+
+
+taken 32 4 	IPC	0.8826
+taken 32 4 	Energy	706282395.3541
+
+
+taken 32 8 	IPC	0.8828
+taken 32 8 	Energy	710328169.0926
+
+
+taken 32 16 	IPC	0.8829
+taken 32 16 	Energy	715562443.0715
+
+
+taken 64 1 	IPC	0.6279
+taken 64 1 	Energy	1196692789.2354
+
+
+taken 64 2 	IPC	0.8086
+taken 64 2 	Energy	923593973.6951
+
+
+taken 64 4 	IPC	0.8826
+taken 64 4 	Energy	803472582.2144
+
+
+taken 64 8 	IPC	0.8828
+taken 64 8 	Energy	807508600.2417
+
+
+taken 64 16 	IPC	0.8829
+taken 64 16 	Energy	812654914.0055
+
+
+taken 128 1 	IPC	0.6279
+taken 128 1 	Energy	1407196551.6121
+
+
+taken 128 2 	IPC	0.8086
+taken 128 2 	Energy	1090823079.6587
+
+
+taken 128 4 	IPC	0.8826
+taken 128 4 	Energy	954644109.2231
+
+
+taken 128 8 	IPC	0.8828
+taken 128 8 	Energy	958634205.5920
+
+
+taken 128 16 	IPC	0.8829
+taken 128 16 	Energy	963618119.1924
+
+
+taken 256 1 	IPC	0.6279
+taken 256 1 	Energy	1815040079.0713
+
+
+taken 256 2 	IPC	0.8086
+taken 256 2 	Energy	1415202127.6544
+
+
+taken 256 4 	IPC	0.8826
+taken 256 4 	Energy	1247348964.4909
+
+
+taken 256 8 	IPC	0.8828
+taken 256 8 	Energy	1251295515.0429
+
+
+taken 256 16 	IPC	0.8829
+taken 256 16 	Energy	1256033391.8622
+
+
+perfect 2 1 	IPC	0.5254
+perfect 2 1 	Energy	806616182.7240
+
+
+perfect 2 2 	IPC	0.5260
+perfect 2 2 	Energy	760104332.5850
+
+
+perfect 2 4 	IPC	0.5264
+perfect 2 4 	Energy	760089171.6378
+
+
+perfect 2 8 	IPC	0.5262
+perfect 2 8 	Energy	774310193.0407
+
+
+perfect 2 16 	IPC	0.5259
+perfect 2 16 	Energy	786788367.2230
+
+
+perfect 4 1 	IPC	0.7733
+perfect 4 1 	Energy	775266881.8315
+
+
+perfect 4 2 	IPC	0.8747
+perfect 4 2 	Energy	622421707.5315
+
+
+perfect 4 4 	IPC	0.8751
+perfect 4 4 	Energy	611793737.7935
+
+
+perfect 4 8 	IPC	0.8749
+perfect 4 8 	Energy	618913261.1027
+
+
+perfect 4 16 	IPC	0.8742
+perfect 4 16 	Energy	625684257.2171
+
+
+perfect 8 1 	IPC	0.8334
+perfect 8 1 	Energy	790126960.9843
+
+
+perfect 8 2 	IPC	1.1742
+perfect 8 2 	Energy	507094500.7196
+
+
+perfect 8 4 	IPC	1.2150
+perfect 8 4 	Energy	478257474.9399
+
+
+perfect 8 8 	IPC	1.2143
+perfect 8 8 	Energy	480056619.9265
+
+
+perfect 8 16 	IPC	1.2142
+perfect 8 16 	Energy	484530585.5338
+
+
+perfect 16 1 	IPC	0.9086
+perfect 16 1 	Energy	832149026.1907
+
+
+perfect 16 2 	IPC	1.3738
+perfect 16 2 	Energy	511356048.0596
+
+
+perfect 16 4 	IPC	1.5698
+perfect 16 4 	Energy	412707019.5534
+
+
+perfect 16 8 	IPC	1.5700
+perfect 16 8 	Energy	415821245.3335
+
+
+perfect 16 16 	IPC	1.5697
+perfect 16 16 	Energy	419788631.6475
+
+
+perfect 32 1 	IPC	0.9406
+perfect 32 1 	Energy	921533591.4306
+
+
+perfect 32 2 	IPC	1.4153
+perfect 32 2 	Energy	569850883.3765
+
+
+perfect 32 4 	IPC	1.6324
+perfect 32 4 	Energy	445367039.9176
+
+
+perfect 32 8 	IPC	1.6326
+perfect 32 8 	Energy	447920250.7621
+
+
+perfect 32 16 	IPC	1.6327
+perfect 32 16 	Energy	451654279.2266
+
+
+perfect 64 1 	IPC	0.9406
+perfect 64 1 	Energy	1040147808.4896
+
+
+perfect 64 2 	IPC	1.4153
+perfect 64 2 	Energy	645272932.9296
+
+
+perfect 64 4 	IPC	1.6325
+perfect 64 4 	Energy	502337677.0841
+
+
+perfect 64 8 	IPC	1.6327
+perfect 64 8 	Energy	504933577.0804
+
+
+perfect 64 16 	IPC	1.6327
+perfect 64 16 	Energy	509229133.2034
+
+
+perfect 128 1 	IPC	0.9406
+perfect 128 1 	Energy	1235349450.1058
+
+
+perfect 128 2 	IPC	1.4153
+perfect 128 2 	Energy	766654589.0146
+
+
+perfect 128 4 	IPC	1.6325
+perfect 128 4 	Energy	598524787.3793
+
+
+perfect 128 8 	IPC	1.6327
+perfect 128 8 	Energy	601033645.9119
+
+
+perfect 128 16 	IPC	1.6327
+perfect 128 16 	Energy	605180503.6526
+
+
+perfect 256 1 	IPC	0.9406
+perfect 256 1 	Energy	1613587787.5569
+
+
+perfect 256 2 	IPC	1.4153
+perfect 256 2 	Energy	1002210107.2442
+
+
+perfect 256 4 	IPC	1.6325
+perfect 256 4 	Energy	784974146.7222
+
+
+perfect 256 8 	IPC	1.6327
+perfect 256 8 	Energy	787349980.6822
+
+
+perfect 256 16 	IPC	1.6327
+perfect 256 16 	Energy	791267822.7219
+
+
+bimod 2 1 	IPC	0.4956
+bimod 2 1 	Energy	854131090.5171
+
+
+bimod 2 2 	IPC	0.4967
+bimod 2 2 	Energy	784680961.2996
+
+
+bimod 2 4 	IPC	0.4974
+bimod 2 4 	Energy	784996994.3925
+
+
+bimod 2 8 	IPC	0.4890
+bimod 2 8 	Energy	789194119.5634
+
+
+bimod 2 16 	IPC	0.4885
+bimod 2 16 	Energy	796491653.1644
+
+
+bimod 4 1 	IPC	0.6988
+bimod 4 1 	Energy	831995706.7548
+
+
+bimod 4 2 	IPC	0.7805
+bimod 4 2 	Energy	675048164.9900
+
+
+bimod 4 4 	IPC	0.7812
+bimod 4 4 	Energy	649382010.4711
+
+
+bimod 4 8 	IPC	0.7612
+bimod 4 8 	Energy	658616538.9239
+
+
+bimod 4 16 	IPC	0.7596
+bimod 4 16 	Energy	661313234.3610
+
+
+bimod 8 1 	IPC	0.7463
+bimod 8 1 	Energy	848876009.4838
+
+
+bimod 8 2 	IPC	0.9925
+bimod 8 2 	Energy	579303687.1304
+
+
+bimod 8 4 	IPC	1.0243
+bimod 8 4 	Energy	542805844.5877
+
+
+bimod 8 8 	IPC	0.9821
+bimod 8 8 	Energy	553059359.7633
+
+
+bimod 8 16 	IPC	0.9798
+bimod 8 16 	Energy	555290714.3911
+
+
+bimod 16 1 	IPC	0.8187
+bimod 16 1 	Energy	889501410.3203
+
+
+bimod 16 2 	IPC	1.1504
+bimod 16 2 	Energy	594333161.8829
+
+
+bimod 16 4 	IPC	1.1978
+bimod 16 4 	Energy	519783886.6934
+
+
+bimod 16 8 	IPC	1.1991
+bimod 16 8 	Energy	518821322.5499
+
+
+bimod 16 16 	IPC	1.1994
+bimod 16 16 	Energy	520401082.5396
+
+
+bimod 32 1 	IPC	0.8445
+bimod 32 1 	Energy	979417094.4129
+
+
+bimod 32 2 	IPC	1.1739
+bimod 32 2 	Energy	658277233.8464
+
+
+bimod 32 4 	IPC	1.2231
+bimod 32 4 	Energy	569410150.7071
+
+
+bimod 32 8 	IPC	1.2297
+bimod 32 8 	Energy	569607181.9944
+
+
+bimod 32 16 	IPC	1.2299
+bimod 32 16 	Energy	571336720.0771
+
+
+bimod 64 1 	IPC	0.8445
+bimod 64 1 	Energy	1099240758.0930
+
+
+bimod 64 2 	IPC	1.1739
+bimod 64 2 	Energy	740501577.4061
+
+
+bimod 64 4 	IPC	1.2231
+bimod 64 4 	Energy	639853487.0350
+
+
+bimod 64 8 	IPC	1.2297
+bimod 64 8 	Energy	638904515.1215
+
+
+bimod 64 16 	IPC	1.2299
+bimod 64 16 	Energy	640580688.4620
+
+
+bimod 128 1 	IPC	0.8445
+bimod 128 1 	Energy	1295895726.3389
+
+
+bimod 128 2 	IPC	1.1739
+bimod 128 2 	Energy	873029866.0457
+
+
+bimod 128 4 	IPC	1.2231
+bimod 128 4 	Energy	755431799.3292
+
+
+bimod 128 8 	IPC	1.2297
+bimod 128 8 	Energy	753448911.4803
+
+
+bimod 128 16 	IPC	1.2299
+bimod 128 16 	Energy	755050767.0364
+
+
+bimod 256 1 	IPC	0.8445
+bimod 256 1 	Energy	1677359566.2733
+
+
+bimod 256 2 	IPC	1.1739
+bimod 256 2 	Energy	1130470617.7106
+
+
+bimod 256 4 	IPC	1.2231
+bimod 256 4 	Energy	979702163.8376
+
+
+bimod 256 8 	IPC	1.2297
+bimod 256 8 	Energy	975729604.1938
+
+
+bimod 256 16 	IPC	1.2299
+bimod 256 16 	Energy	977214510.2932
+
+
+2lev 2 1 	IPC	0.5134
+2lev 2 1 	Energy	848186261.8442
+
+
+2lev 2 2 	IPC	0.5143
+2lev 2 2 	Energy	787343413.4001
+
+
+2lev 2 4 	IPC	0.5138
+2lev 2 4 	Energy	786168167.4562
+
+
+2lev 2 8 	IPC	0.5023
+2lev 2 8 	Energy	788218825.3322
+
+
+2lev 2 16 	IPC	0.5014
+2lev 2 16 	Energy	795325989.1900
+
+
+2lev 4 1 	IPC	0.7374
+2lev 4 1 	Energy	822401146.7991
+
+
+2lev 4 2 	IPC	0.8327
+2lev 4 2 	Energy	661682114.8745
+
+
+2lev 4 4 	IPC	0.8216
+2lev 4 4 	Energy	640938253.1883
+
+
+2lev 4 8 	IPC	0.8009
+2lev 4 8 	Energy	648411475.3860
+
+
+2lev 4 16 	IPC	0.7891
+2lev 4 16 	Energy	652975349.9035
+
+
+2lev 8 1 	IPC	0.7901
+2lev 8 1 	Energy	839099660.8086
+
+
+2lev 8 2 	IPC	1.0570
+2lev 8 2 	Energy	565146363.2821
+
+
+2lev 8 4 	IPC	1.0897
+2lev 8 4 	Energy	529591779.0451
+
+
+2lev 8 8 	IPC	1.0855
+2lev 8 8 	Energy	531578239.9935
+
+
+2lev 8 16 	IPC	1.0407
+2lev 8 16 	Energy	539981892.5682
+
+
+2lev 16 1 	IPC	0.8610
+2lev 16 1 	Energy	881320132.6321
+
+
+2lev 16 2 	IPC	1.1966
+2lev 16 2 	Energy	581504379.8201
+
+
+2lev 16 4 	IPC	1.2395
+2lev 16 4 	Energy	509511990.2862
+
+
+2lev 16 8 	IPC	1.3153
+2lev 16 8 	Energy	491983086.2139
+
+
+2lev 16 16 	IPC	1.2489
+2lev 16 16 	Energy	506446420.0344
+
+
+2lev 32 1 	IPC	0.8889
+2lev 32 1 	Energy	972958692.7231
+
+
+2lev 32 2 	IPC	1.2255
+2lev 32 2 	Energy	647449674.9269
+
+
+2lev 32 4 	IPC	1.2742
+2lev 32 4 	Energy	559870917.4594
+
+
+2lev 32 8 	IPC	1.3535
+2lev 32 8 	Energy	543756042.9493
+
+
+2lev 32 16 	IPC	1.2819
+2lev 32 16 	Energy	561707424.4633
+
+
+2lev 64 1 	IPC	0.8889
+2lev 64 1 	Energy	1092857514.8125
+
+
+2lev 64 2 	IPC	1.2255
+2lev 64 2 	Energy	727947867.1817
+
+
+2lev 64 4 	IPC	1.2737
+2lev 64 4 	Energy	628656363.0201
+
+
+2lev 64 8 	IPC	1.3545
+2lev 64 8 	Energy	609234535.2112
+
+
+2lev 64 16 	IPC	1.2822
+2lev 64 16 	Energy	629118943.0071
+
+
+2lev 128 1 	IPC	0.8889
+2lev 128 1 	Energy	1289767847.8941
+
+
+2lev 128 2 	IPC	1.2255
+2lev 128 2 	Energy	857999498.4964
+
+
+2lev 128 4 	IPC	1.2737
+2lev 128 4 	Energy	741852441.3398
+
+
+2lev 128 8 	IPC	1.3545
+2lev 128 8 	Energy	717911023.8967
+
+
+2lev 128 16 	IPC	1.2822
+2lev 128 16 	Energy	741351481.5906
+
+
+2lev 256 1 	IPC	0.8889
+2lev 256 1 	Energy	1671757708.7760
+
+
+2lev 256 2 	IPC	1.2255
+2lev 256 2 	Energy	1110693122.6012
+
+
+2lev 256 4 	IPC	1.2737
+2lev 256 4 	Energy	961498856.8395
+
+
+2lev 256 8 	IPC	1.3545
+2lev 256 8 	Energy	928931058.2686
+
+
+2lev 256 16 	IPC	1.2822
+2lev 256 16 	Energy	959209402.5013
+
+
+comb 2 1 	IPC	0.5147
+comb 2 1 	Energy	847708979.4284
+
+
+comb 2 2 	IPC	0.5157
+comb 2 2 	Energy	787770919.6937
+
+
+comb 2 4 	IPC	0.5164
+comb 2 4 	Energy	787521317.6535
+
+
+comb 2 8 	IPC	0.5102
+comb 2 8 	Energy	789500143.3635
+
+
+comb 2 16 	IPC	0.5063
+comb 2 16 	Energy	795659727.2515
+
+
+comb 4 1 	IPC	0.7432
+comb 4 1 	Energy	820879148.3397
+
+
+comb 4 2 	IPC	0.8415
+comb 4 2 	Energy	661481486.4959
+
+
+comb 4 4 	IPC	0.8367
+comb 4 4 	Energy	643525780.3074
+
+
+comb 4 8 	IPC	0.8060
+comb 4 8 	Energy	649542812.6370
+
+
+comb 4 16 	IPC	0.8059
+comb 4 16 	Energy	650273739.2957
+
+
+comb 8 1 	IPC	0.7972
+comb 8 1 	Energy	837129334.5931
+
+
+comb 8 2 	IPC	1.0902
+comb 8 2 	Energy	557979711.7218
+
+
+comb 8 4 	IPC	1.1189
+comb 8 4 	Energy	524058851.8743
+
+
+comb 8 8 	IPC	1.1127
+comb 8 8 	Energy	526618174.8461
+
+
+comb 8 16 	IPC	1.0585
+comb 8 16 	Energy	535989953.2646
+
+
+comb 16 1 	IPC	0.8689
+comb 16 1 	Energy	879399364.5707
+
+
+comb 16 2 	IPC	1.2510
+comb 16 2 	Energy	569729391.5920
+
+
+comb 16 4 	IPC	1.2863
+comb 16 4 	Energy	497385548.4596
+
+
+comb 16 8 	IPC	1.3588
+comb 16 8 	Energy	482984489.3630
+
+
+comb 16 16 	IPC	1.2872
+comb 16 16 	Energy	496064750.8971
+
+
+comb 32 1 	IPC	0.8984
+comb 32 1 	Energy	969668088.2583
+
+
+comb 32 2 	IPC	1.2827
+comb 32 2 	Energy	633612003.4836
+
+
+comb 32 4 	IPC	1.3176
+comb 32 4 	Energy	545589764.0049
+
+
+comb 32 8 	IPC	1.3981
+comb 32 8 	Energy	531142275.7601
+
+
+comb 32 16 	IPC	1.3204
+comb 32 16 	Energy	548021220.8729
+
+
+comb 64 1 	IPC	0.8984
+comb 64 1 	Energy	1089099709.9471
+
+
+comb 64 2 	IPC	1.2827
+comb 64 2 	Energy	712268375.7079
+
+
+comb 64 4 	IPC	1.3173
+comb 64 4 	Energy	612657354.9560
+
+
+comb 64 8 	IPC	1.3989
+comb 64 8 	Energy	595116963.4116
+
+
+comb 64 16 	IPC	1.3199
+comb 64 16 	Energy	614388079.4713
+
+
+comb 128 1 	IPC	0.8984
+comb 128 1 	Energy	1285301134.8984
+
+
+comb 128 2 	IPC	1.2827
+comb 128 2 	Energy	839085269.9941
+
+
+comb 128 4 	IPC	1.3173
+comb 128 4 	Energy	722800422.1949
+
+
+comb 128 8 	IPC	1.3989
+comb 128 8 	Energy	701048229.8679
+
+
+comb 128 16 	IPC	1.3199
+comb 128 16 	Energy	723915972.5284
+
+
+comb 256 1 	IPC	0.8984
+comb 256 1 	Energy	1665910627.3140
+
+
+comb 256 2 	IPC	1.2827
+comb 256 2 	Energy	1085548473.0380
+
+
+comb 256 4 	IPC	1.3173
+comb 256 4 	Energy	936562994.2104
+
+
+comb 256 8 	IPC	1.3989
+comb 256 8 	Energy	906767355.6090
+
+
+comb 256 16 	IPC	1.3199
+comb 256 16 	Energy	936535714.1058
+
