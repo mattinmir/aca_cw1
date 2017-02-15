@@ -25,7 +25,7 @@
 %\usepackage{amssymb}  % assumes amsmath package installed
 
 \title{\LARGE \bf
-Preparation of Papers for IEEE Sponsored Conferences \& Symposia*
+Instruction-level Parallelism in Computing Contour Trees
 }
 
 %\author{ \parbox{3 in}{\centering Huibert Kwakernaak*
@@ -43,15 +43,7 @@ Preparation of Papers for IEEE Sponsored Conferences \& Symposia*
 %         {\tt\small pmisra@cs.wright.edu}}
 %}
 
-\author{Huibert Kwakernaak$^{1}$ and Pradeep Misra$^{2}$% <-this % stops a space
-\thanks{*This work was not supported by any organization}% <-this % stops a space
-\thanks{$^{1}$H. Kwakernaak is with Faculty of Electrical Engineering, Mathematics and Computer Science,
-        University of Twente, 7500 AE Enschede, The Netherlands
-        {\tt\small h.kwakernaak at papercept.net}}%
-\thanks{$^{2}$P. Misra is with the Department of Electrical Engineering, Wright State University,
-        Dayton, OH 45435, USA
-        {\tt\small p.misra at ieee.org}}%
-}
+\author{Mattin Mir-Tahmasebi (Username: mm5213, CID: 00824754)}
 
 
 \begin{document}
@@ -63,18 +55,14 @@ Preparation of Papers for IEEE Sponsored Conferences \& Symposia*
 \pagestyle{empty}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{abstract}
 
-This electronic document is a ÒliveÓ template. The various components of your paper [title, text, heads, etc.] are already defined on the style sheet, as illustrated by the portions given in this document.
-
-\end{abstract}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{INTRODUCTION}
+\section{Varying RUU Size}
 
-This template, modified in MS Word 2003 and saved as ÒWord 97-2003 \& 6.0/95 Ð RTFÓ for the PC, provides authors with most of the formatting specifications needed for preparing electronic versions of their papers. All standard paper components have been specified for three reasons: (1) ease of use when formatting individual papers, (2) automatic compliance to electronic requirements that facilitate the concurrent or later production of electronic products, and (3) conformity of style throughout a conference proceedings. Margins, column widths, line spacing, and type styles are built-in; examples of the type styles are provided throughout this document and are identified in italic type, within parentheses, following the example. Some components, such as multi-leveled equations, graphics, and tables are not prescribed, although the various table text styles are provided. The formatter will need to create these components, incorporating the applicable criteria that follow.
+The approach began by determining the best register update unit (RUU) size by measuring the instructions per cycle (IPC) and the total energy consumed for different values. As is seen in Figure 2, the lowest energy consumption occurs at an RUU size of 16. This can be explained by looking at Figure 1, which shows that the marginal throughput diminishes after an RUU of size 16. So, increasing RUU size from 2 to 16 decreased power usage, because the energy saved from using fewer cycles outweighed the increased energy from a larger RUU, but after size 16 this benefit is not seen, because the larger RUU is drawing more energy but not providing extra throughput in return, so power usage rises again.
+
 
 \section{PROCEDURE FOR PAPER SUBMISSION}
 
