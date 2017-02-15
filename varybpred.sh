@@ -4,7 +4,7 @@ stats="sim_num_insn	sim_num_refs	sim_num_loads	sim_num_stores	sim_num_branches	s
 
 
 echo -e "bpred\t$stats"
-valstring=''
+
 
 for bpred in nottaken taken perfect bimod 2lev comb; do 
 			
@@ -17,9 +17,10 @@ for bpred in nottaken taken perfect bimod 2lev comb; do
 			
 			echo -n -e "$config\t"
 			
+			valstring=''
 			for stat in $stats ; do
 				
-				val=$( cat /tmp/stats_$path | grep $stat | grep -o -E "[0-9]+(\.[0-9]+)?" )
+				val=$( cat /tmp/stats_$path | grep $stat | grep -o -E " [0-9]+(\.[0-9]+)?" )
 				valstring+=$val'\t'
 				
 			done
