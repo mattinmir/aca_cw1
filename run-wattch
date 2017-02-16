@@ -1,6 +1,7 @@
 #!/bin/bash
 
-SCALE=3
+SCALE=6
+
 
 FILENAME=bucky-32x32x$SCALE.raw
 
